@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Watts</string>
+<string name="notmuchyet">Hi!  Thanks for trying my app.  There is not much data to show you yet because I was only recently installed.  Don't worry press HOME and come back later to check out the graph.  I'll stop nagging you then too.</string>
+<string name="no_data">No data to plot</string>
+<string name="not_much_data">Not much data to show yet, still collecting.</string>
+
+<color name="background">#ff000000</color>
+</resources>

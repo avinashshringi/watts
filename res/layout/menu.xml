@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/show1"
+		android:icon="@android:drawable/ic_menu_zoom" android:checkable="false"
+		android:orderInCategory="1" android:title="1 day">
+	</item>
+	<item android:id="@+id/show2"
+		android:icon="@android:drawable/ic_menu_zoom" android:checkable="false"
+		android:orderInCategory="2" android:title="2 days">
+	</item>
+	<item android:id="@+id/show3"
+		android:icon="@android:drawable/ic_menu_zoom" android:checkable="false"
+		android:orderInCategory="3" android:title="3 days">
+	</item>
+	<item android:id="@+id/show4"
+		android:icon="@android:drawable/ic_menu_zoom" android:checkable="false"
+		android:orderInCategory="4" android:title="4 days">
+	</item>
+	<item android:id="@+id/show5"
+		android:icon="@android:drawable/ic_menu_zoom" android:checkable="false"
+		android:orderInCategory="4" android:title="5 days">
+	</item>
+	<item android:id="@+id/showAllTime"
+		android:icon="@android:drawable/ic_menu_zoom" android:checkable="false"
+		android:orderInCategory="5" android:title="all time">
+	</item>
+	<item android:id="@+id/enabletts" android:title="Text to Speech"
+		android:orderInCategory="97" android:checkable="true"
+		android:icon="@android:drawable/btn_star_big_off">
+	</item>
+	<item android:id="@+id/enablesnd" android:title="Low batt warnings"
+		android:orderInCategory="98" android:checkable="true"
+		android:icon="@android:drawable/btn_star_big_off">
+	</item>
+	<item android:id="@+id/finish"
+		android:icon="@android:drawable/ic_delete"
+		android:orderInCategory="99" android:title="Finish">
+	</item>
+	<item android:id="@+id/about"
+		android:icon="@android:drawable/ic_menu_info_details"
+		android:orderInCategory="100" android:title="About">
+	</item>
+</menu>
